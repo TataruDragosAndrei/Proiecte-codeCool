@@ -1,3 +1,6 @@
 createEdgeSprites();
 var Nava = createSprite(200,300,50,50);
 Nava.setAnimation("Spaceship");
+var Asteroid = createSprite(randomNumber(50,350),randomNumber(50,200),50,50);
+Asteroid.setAnimation("Asteroid");
+
