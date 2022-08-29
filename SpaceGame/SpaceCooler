@@ -1,0 +1,2 @@
+createEdgeSprites();
+var Nava = createSprite(200,300,50,50);
