@@ -7,3 +7,18 @@
   `moveDown`
   `moveRight`
 */
+
+ moveUp();
+ moveUp();
+ moveRight();
+ moveRight();
+ moveRight();
+ moveDown();
+ moveDown();
+ moveDown();
+ moveDown();
+ moveDown();
+ moveLeft();
+ moveLeft();
+ moveLeft();
+ moveUp();

@@ -1,3 +1,6 @@
+
+
+
 function loadLevel1(existingMap, engineFunctions) {
   const map = [
     [12, 12, 12, 12, 12, 12],
