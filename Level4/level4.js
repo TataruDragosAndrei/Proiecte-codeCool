@@ -14,3 +14,13 @@
   each turn.
 */
 
+let i=0;
+while (i<12) { 
+  if ( i%2 == 0 ) {
+  moveDirection('down');
+} else {
+   (moveDirection('right'));
+}
+i++;
+}
+

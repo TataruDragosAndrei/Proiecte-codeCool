@@ -10,3 +10,4 @@
   writing multiple times the same function call.
 */
 
+for (var i=0; i<8; i++) moveDirection('down');

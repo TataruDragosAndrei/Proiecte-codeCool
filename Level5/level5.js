@@ -7,6 +7,10 @@ function giveDoor1Answer(firstNumber, secondNumber) {
 
   HINT: Open the browser developer tools to view the question
   */
+let newNumber = (firstNumber*firstNumber*firstNumber*firstNumber)/(firstNumber+secondNumber);
+newNumber = Math.floor(newNumber);
+return newNumber;
+
 
   console.log(firstNumber);
   console.log(secondNumber);
@@ -20,3 +24,5 @@ moveDirection("down");
 moveDirection("down");
 moveDirection("down");
 moveDirection("down");
+
+console.log(giveDoor1Answer());

@@ -22,3 +22,5 @@
  moveLeft();
  moveLeft();
  moveUp();
+
+ // A se vedea ca acest fisier a fost modificat.
